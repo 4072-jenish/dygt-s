@@ -1,0 +1,43 @@
+
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.float-fix{
+
+    clear: both;
+
+}
+ 
+.container{
+    width: 584px;
+    border: 12px groove black;
+    margin: 0 auto;
+}
+
+.box1{
+
+   height: 70px;
+   width: 70px;
+   float: left ;
+
+}
+.black{
+
+    background-color: rgb(235, 152, 152);
+
+}
+.white{
+
+ background-color: white;
+
+}
+.box1 p{
+
+    font-size: 55px;
+    text-align: center;
+
+}
